@@ -14,6 +14,15 @@ header {
     text-align: center;
 }
 
+.photo {
+    width: 150px;
+    height: 150px;
+    background-image: url('C:\Users\M S I\Desktop\Abdeltif\noamani.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%; /* Pour obtenir une forme de cercle */
+}
+
 h1 {
     font-size: 24px;
     font-weight: bold;
